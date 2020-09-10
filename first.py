@@ -1,3 +1,5 @@
 a = 67
 
-print(a)
+b = 57
+
+print(a + b)
